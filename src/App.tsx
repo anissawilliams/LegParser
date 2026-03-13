@@ -1,5 +1,5 @@
 import React from 'react';
-import OrdinanceParser from './ordinance-parser';
+import OrdinanceParser from './OrdinanceParser';
 
 function App() {
   return <OrdinanceParser />;
